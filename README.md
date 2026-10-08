@@ -7,8 +7,8 @@ Official site: https://fullstackopen.com/en/
 ## When does it start?
 There is **no fixed start date**. The course is open all the time and self-paced; there are no yearly versions. One part is roughly one week (about 15-20 hours), but you choose the speed. You can start at any time, and parts are updated once or twice a year.
 
-- My own start date: **[YYYY-MM-DD - fill in]**
-- Target finish date: **[YYYY-MM-DD - fill in]**
+- My own start date: **[2026-10-08 ]**
+- Target finish date: **[YYYY-MM-DD ]**
 
 ## Credits and structure
 - Parts 0-5 are the core course (5 ECTS). Extension parts add more credits (see table).
@@ -35,20 +35,21 @@ There is **no fixed start date**. The course is open all the time and self-paced
 | 14 | [Next.js](part14-nextjs/README.md) | Added April 2026 (credit details on site) |
 
 ## Student bio
-- **Name:** [Your name]
+- **Name:** [William Berhane]
 - **Location:** Sweden
 - **Status:** Registered for Full Stack Open and currently studying it.
-- **Goal:** Become a professional web developer and find work in Sweden.
+- **Goal:** Become a professional web developer and find work.
 - **Background:** [Add 1-2 lines: prior experience, languages, school/work]
-- **GitHub:** [link]  |  **LinkedIn:** [link]
+- [Github](https://github.com/will3343)  |  [LinkedIn](https://www.linkedin.com/in/william-berhane/)
+
 
 ## All exercises (overview)
 Tick the boxes as you go. Each part folder has its own README with space for notes and links.
 Numbering note: parts 2-5 are grouped as ranges here, and parts 6-14 are listed as "See site" because their exercise lists live on the official pages and are updated often. Copy exact wording from the course pages as you work.
 
 ### Part 0 - Fundamentals of Web Apps
-- [ ] **0.1** - HTML: review the basics of HTML structure.
-- [ ] **0.2** - CSS: review the basics of styling.
+- [✔] **0.1** - HTML: review the basics of HTML structure.
+- [✔] **0.2** - CSS: review the basics of styling.
 - [ ] **0.3** - HTML forms: review how forms and submissions work.
 - [ ] **0.4** - New note diagram: draw a sequence diagram of what happens when a note is created on the traditional notes page.
 - [ ] **0.5** - Single page app diagram: draw a sequence diagram of loading the SPA version of the notes app.

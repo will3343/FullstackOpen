@@ -6,8 +6,8 @@
 
 ## Exercises
 
-- [ ] **0.1** - HTML: review the basics of HTML structure.
-- [ ] **0.2** - CSS: review the basics of styling.
+- [✔] **0.1** - HTML: review the basics of HTML structure.
+- [✔] **0.2** - CSS: review the basics of styling.
 - [ ] **0.3** - HTML forms: review how forms and submissions work.
 - [ ] **0.4** - New note diagram: draw a sequence diagram of what happens when a note is created on the traditional notes page.
 - [ ] **0.5** - Single page app diagram: draw a sequence diagram of loading the SPA version of the notes app.
